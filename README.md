@@ -64,3 +64,4 @@ To transform raw sales data into meaningful business insights through an interac
 
 Dashboard Preview:
 
+https://github.com/Ananyajain1506/SuperStore-Sales-Dashboard-Excel-/blob/main/sales%20dashboard.png
