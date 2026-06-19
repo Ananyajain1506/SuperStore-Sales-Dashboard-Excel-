@@ -54,11 +54,15 @@ Skills Demonstrated
 - KPI Tracking
 
 
-Dataset
+Dataset:
+
+
 Sample Superstore Dataset
 
 
-Project Objective
+Project Objective:
+
+
 To transform raw sales data into meaningful business insights through an interactive Excel dashboard that supports performance monitoring and business decision-making.
 
 
